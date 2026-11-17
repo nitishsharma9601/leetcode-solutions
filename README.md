@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nitishsharma9601/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nitishsharma9601/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/nitishsharma9601/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/nitishsharma9601/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/nitishsharma9601/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/nitishsharma9601/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/nitishsharma9601/leetcode-solutions/tree/master/0066-plus-one) |
@@ -60,5 +61,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/nitishsharma9601/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/nitishsharma9601/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
